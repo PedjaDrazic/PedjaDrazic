@@ -8,9 +8,7 @@ I build systems for it instead.
 
 ## What I do
 
-I'm an AI educator and product builder based in Serbia.
-
-My work: help capable professionals build AI workflows that actually hold up. Not just on the first try, but every time.
+Practical frameworks for building AI workflows that actually ship. No hype — just systems you can reuse.
 
 Not prompts. Not hacks. **Systems.**
 
