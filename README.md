@@ -8,7 +8,7 @@ I build systems for it instead.
 
 ## What I do
 
-Practical frameworks for building AI workflows that actually ship. No hype — just systems you can reuse.
+I design AI workflows that run without me. Practical frameworks, not clever prompts. Systems you can reuse, not tricks that work once.
 
 Not prompts. Not hacks. **Systems.**
 
@@ -27,6 +27,11 @@ A practical AI framework for professionals who want results, not theory.
 **[Persistent AI Setups](https://pedjadrazic.com)**
 How to stop rebuilding context for the same tasks. Configure once, reuse every time.
 
+**A working agent fleet**
+Four Hermes agents run on a schedule, each with one job. One scans for signals. One verifies and briefs. One drafts content in my voice. One produces video. A second layer of Claude agents audits the fleet and keeps a shared knowledge base current, so nothing lives in a chat thread that disappears.
+
+I run this daily, on myself, before I teach it to anyone else. It is the proof, not the pitch.
+
 ---
 
 ## How I think about this
@@ -43,7 +48,7 @@ Five principles I keep coming back to:
 
 ## What's in these repos
 
-The projects here are real experiments — apps I built while learning, tools I use, prototypes I ship.
+Agent configs, workflow tooling, prototypes I use myself before I teach them.
 
 Not polished for show. Built for function.
 
