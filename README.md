@@ -61,4 +61,4 @@ Available for consulting on AI implementation and workflow design.
 Not the right fit for everyone. The right fit for professionals who want structure, not shortcuts.
 
 → **[pedjadrazic.com](https://pedjadrazic.com)**
-→ **LinkedIn:** [in/predrag-drazic-922ba053](https://linkedin.com/in/predrag-drazic-922ba053)
+→ **LinkedIn:** [in/predrag-drazic](https://www.linkedin.com/in/predrag-drazic/)
